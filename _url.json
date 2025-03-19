@@ -1,0 +1,22 @@
+{
+    "baseUrl": "https://raw.githubusercontent.com/Ichihai1415/JMA-GIS-GeoJSON/refs/heads/release/",
+    "marge": "{baseUrl}{fileName}_GIS_{updateTime}_{simpleRate}.geojson",
+    "updateTime": {
+        "AreaForecast": "20190125",
+        "AreaForecastEEW": "20190125",
+        "AreaForecastLocalE": "20240520",
+        "AreaForecastLocalEEW": "20190125",
+        "AreaForecastLocalM_1saibun": "20190125",
+        "AreaForecastLocalM_matome": "20230517",
+        "AreaForecastLocalM_prefecture": "20190125",
+        "AreaInformationCity_landslide": "20230517",
+        "AreaInformationCity_quake": "20240229",
+        "AreaInformationCity_risk": "20231208",
+        "AreaInformationCity_river": "20230517",
+        "AreaInformationCity_volcano": "20240229",
+        "AreaInformationCity_weather": "20230517",
+        "AreaInformationPrefectureEarthquake": "20190125",
+        "AreaMarineAJ": "20190125",
+        "AreaTsunami": "20240520"
+    }
+}
